@@ -1,13 +1,13 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
-    siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
-    siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+    author: "@xiz-kak",
+    siteTitle: "xiz-kak portfolio",
+    siteShortTitle: "S Kakimoto", // Used as logo text in header, footer, and splash screen
+    siteDescription: "Portfolio site of Shizuka Kakimoto,",
+    siteUrl: "https://xiz-kak.com",
     siteLanguage: "en_US",
     siteIcon: "content/favicon.png", // Relative to gatsby-config file
-    seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
+    seoTitleSuffix: "", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
     splashScreen: false, // Set this to true if you want to use the splash screen
 
@@ -20,35 +20,35 @@ module.exports = {
     // Medium, GitHub, LinkedIn, XING, Behance
     socialMedia: [
         {
-            name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
-        },
-        {
-            name: "Medium",
-            url: "https://konstantinmuenster.medium.com/"
-        },
-        {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
+            url: "https://github.com/xiz-kak/"
         },
         {
-            name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
+            name: "Facebook",
+            url: "https://www.facebook.com/shizuka.kakimoto.9/"
+        },
+        {
+            name: "Twitter",
+            url: "https://twitter.com/xiz_kak/"
+        },
+        {
+            name: "Linkedin",
+            url: "https://www.linkedin.com/in/sizuka-kakimoto-361a9664/"
         },
     ],
   
     navLinks: {
         menu: [
             {
-                name: "Articles",
-                url: "/#articles",
-            },
-            {
                 name: "About Me",
                 url: "/#about",
             },
             {
-                name: "Features",
+                name: "Interests",
+                url: "/#interests",
+            },
+            {
+                name: "Projects",
                 url: "/#projects",
             },
         ],
@@ -60,12 +60,8 @@ module.exports = {
 
     footerLinks: [
         {
-            name: "Privacy",
-            url: "/privacy"
+            name: "©️ 2020 S Kakimoto",
+            url: ""
         },
-        {
-            name: "Imprint",
-            url: "/imprint"
-        }
     ]
 }
