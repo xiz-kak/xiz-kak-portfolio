@@ -60,7 +60,7 @@ module.exports = {
 
     footerLinks: [
         {
-            name: "©️ 2020 S Kakimoto",
+            name: "©️ 2021 S Kakimoto",
             url: ""
         },
     ]
