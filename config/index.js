@@ -33,7 +33,7 @@ module.exports = {
         },
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/sizuka-kakimoto-361a9664/"
+            url: "https://www.linkedin.com/in/shizuka-kakimoto-361a9664/"
         },
     ],
   
@@ -60,7 +60,7 @@ module.exports = {
 
     footerLinks: [
         {
-            name: "©️ 2021 S Kakimoto",
+            name: "©️ 2022 S Kakimoto",
             url: ""
         },
     ]
